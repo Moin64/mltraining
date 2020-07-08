@@ -13,7 +13,7 @@ setwd("~/datasets/titanic")
 # Your working directory might vary
 
 # from web content
-# train <- read.csv('https://raw.githubusercontent.com/raqueeb/mltraining/master/ML-workbook/train.csv')
+# train <- read.csv('https://raw.githubusercontent.com/Moin64/mltraining/master/ML-workbook/train.csv')
 train <- read.csv("~/datasets/titanic/train.csv")
 
 # viewing the "train" dataframe in raw format
